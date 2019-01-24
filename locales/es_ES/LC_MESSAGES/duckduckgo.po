@@ -222,7 +222,7 @@ msgstr "Todas las configuraciones"
 
 msgctxt "size"
 msgid "All Sizes"
-msgstr "todos los tamaños"
+msgstr "Todos los tamaños"
 
 msgctxt "image-type"
 msgid "All Types"
